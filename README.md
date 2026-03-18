@@ -1,78 +1,61 @@
 # FUTURE_FS_03
+Urban Bites Café – Business Website
 
-Local Business Website
-Project Overview
+## Project Overview
 
-This project is a responsive Local Business Website developed as part of the Full Stack Web Development Internship (Task 3).
+This project is a professional business website built for a local café as part of Full Stack Web Development Task 3.
 
-The website represents a sample local business and provides essential information such as business introduction, services offered, and contact details. It demonstrates how small businesses can establish an online presence through a simple and clean website.
+The website helps the business:
+• Build online presence  
+• Attract customers  
+• Showcase menu and services  
+• Improve trust and visibility  
 
-Live Website
+## Live Demo
 
-https://rishitha-dhanala.github.io/FUTURE_FS_03/
+(Add GitHub Pages Link Here)
 
-Features
+## Features
 
-Responsive layout for mobile and desktop devices
+• Sidebar navigation  
+• Home, Menu, About, Contact pages  
+• Interactive dashboard  
+• Dark / Light mode toggle  
+• Hover animations  
+• Responsive design  
+• Simple UI/UX  
 
-Navigation menu for easy section access
+## Technologies Used
 
-About section introducing the business
+• HTML5  
+• CSS3  
+• JavaScript  
 
-Services section describing business offerings
+## Project Structure
 
-Contact form for customer inquiries
+FUTURE_FS_03  
+→ index.html  
+→ style.css  
+→ script.js  
+→ README.md  
 
-Clean and simple user interface
+## Pitch Explanation
 
-Technologies Used
+This website helps Urban Bites Café by:
 
-Frontend:
+• Making the business look professional online  
+• Helping customers easily view menu and contact details  
+• Increasing customer trust  
+• Providing a simple dashboard for engagement simulation  
 
-HTML5
+## Author
 
-CSS3
+D. Rishitha  
+B.Tech CSE Student  
 
-JavaScript (Vanilla JS)
+## Internship Details
 
-Tools:
-
-Git & GitHub
-
-VS Code
-
-Project Structure
-
-FUTURE_FS_03
-
--> index.html
-
--> style.css
-
--> script.js
-
--> README.md
-
-Key Highlights
-
-Structured semantic HTML layout
-
-Custom CSS styling for layout and design
-
-JavaScript used for form interaction
-
-Organized and maintainable project structure
-
-Internship Details
-
-Track Code: FS
-Internship: Full Stack Web Development
-Organization: Future Interns
-Task: Build a Local Business Website
-
-Author
-
-D. Rishitha
-B.Tech CSE Student
-
-This project demonstrates how frontend technologies can be used to create a simple business website, helping local businesses present their services and contact information online.
+Track Code: FS  
+Program: Full Stack Web Development  
+Organization: Future Interns  
+Task: Build, Pitch & Monetize a Real Local Business Website
